@@ -1,0 +1,10 @@
+{
+  "name": "CurrencyCommandSet",
+  "version": "0.1.0",
+  "repository": "git@github.com:niks3089/currency-command-set.git",
+  "author": "Nikhil Acharya<niks3089@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "test": "yarn test"
+  }
+}

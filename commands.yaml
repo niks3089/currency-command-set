@@ -1,0 +1,7 @@
+commands:
+  convert:
+    sourcePath: packages/currency/convert.js
+    description: Convert 1 currency to another
+    parameters:
+      - name: from
+      - name: to
